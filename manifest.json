@@ -1,0 +1,6059 @@
+{
+  "homepages": [],
+  "source_base_path": "/code/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ASTResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ASTResponse.html",
+          "hash": "FY0Ue3c+E5VI4YpPe16E5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AddResourceMemberRequestBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AddResourceMemberRequestBody.html",
+          "hash": "hlHnmHwdooTAZoQ+DuGiTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AnalyzeQueryResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AnalyzeQueryResponse.html",
+          "hash": "Qkt+H2MepIfdHEogwyTGPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AnalyzeQueryResponseErrors.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AnalyzeQueryResponseErrors.html",
+          "hash": "OX1A8j8fyiuVBRR+AzVRVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ArrayExpression.ArrayExpressionElementsAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ArrayExpression.ArrayExpressionElementsAdapter.html",
+          "hash": "vEm5PU8DYoJGqIA489vBoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ArrayExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ArrayExpression.html",
+          "hash": "eIgs/esX5yHn91QqXNXC1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Authorization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Authorization.html",
+          "hash": "wSWMSTAVw+Q/2tD0/OoJdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationLinks.html",
+          "hash": "7HVUdM6G0TIVV3XiIAZDrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationPostRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationPostRequest.html",
+          "hash": "POajKxVvlu6KlJj6KNIYyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationUpdateRequest.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationUpdateRequest.StatusEnum.html",
+          "hash": "1lLJN7j9A0kHKEknTq2WyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationUpdateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AuthorizationUpdateRequest.html",
+          "hash": "wImc+WzV+wtLR6JjD27Osw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Authorizations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Authorizations.html",
+          "hash": "xEM1ROZP/NvzPQsYDcVlMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Axes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Axes.html",
+          "hash": "f+EEGK4I5Q2Uw1/fEDIX/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Axis.BaseEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Axis.BaseEnum.html",
+          "hash": "T06XZOK/wcfklkM5CX9NMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Axis.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Axis.html",
+          "hash": "GFMixDNYHXf4tVQyPX0Ftw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.AxisScale.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.AxisScale.html",
+          "hash": "s1us6Nj65KyuWztg1dxAMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BadStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BadStatement.html",
+          "hash": "iTBRSZmYd+I3FgWWkKm8yA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.HoverDimensionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.HoverDimensionEnum.html",
+          "hash": "qWREkCE6NF8yrM11+yxoNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.ShapeEnum.html",
+          "hash": "eCFnPjNeO1qSxYoA9KaCOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.TypeEnum.html",
+          "hash": "r8pMDmBxYt6OplzBdhxYCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BandViewProperties.html",
+          "hash": "oh/RZAezMXWhQC848af59g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.BinaryExpressionLeftAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.BinaryExpressionLeftAdapter.html",
+          "hash": "woSV7I9QObd/71+d9sUqMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.BinaryExpressionRightAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.BinaryExpressionRightAdapter.html",
+          "hash": "3coS+I11H67detNR6BLXXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BinaryExpression.html",
+          "hash": "5IGRN3XUrcZeRoa+Z547fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Block.BlockBodyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Block.BlockBodyAdapter.html",
+          "hash": "UNQ4rN6AucDXJ22+NAVQUQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Block.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Block.html",
+          "hash": "66WAjTpogVtMkJhQS842Ww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BooleanLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BooleanLiteral.html",
+          "hash": "Z89uwd+lRNHO+wdBsfnoJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Bucket.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Bucket.TypeEnum.html",
+          "hash": "HpZUD1U6WCs8D3gmT4kwYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Bucket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Bucket.html",
+          "hash": "8wSFjiHp+OCvKIMLXNfSDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BucketLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BucketLinks.html",
+          "hash": "gaiXDOwefBj6S4AHo3UhBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BucketMetadataManifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BucketMetadataManifest.html",
+          "hash": "vRYDEK9WZjCchYsLCR08JA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BucketRetentionRules.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BucketRetentionRules.TypeEnum.html",
+          "hash": "OScYbO5RdeUNFaihEmuMlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BucketRetentionRules.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BucketRetentionRules.html",
+          "hash": "EDTPsikYGdxyhM5PXaS3pw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BucketShardMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BucketShardMapping.html",
+          "hash": "uJa0iy37kWaF4H16iVNYWA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Buckets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Buckets.html",
+          "hash": "WAR6TO5ta9KbQ4CurNQGwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuilderAggregateFunctionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuilderAggregateFunctionType.html",
+          "hash": "V5yRRBUBOG20pU3bUiVNaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuilderConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuilderConfig.html",
+          "hash": "7CP3JSS+jibygIg3ZVLysA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuilderConfigAggregateWindow.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuilderConfigAggregateWindow.html",
+          "hash": "xHljU0Y75aOxPfQfRhqf8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuilderFunctionsType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuilderFunctionsType.html",
+          "hash": "nye8JEF2nD1pSLFE2XeTbA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuilderTagsType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuilderTagsType.html",
+          "hash": "1XueGKR4XOuUrNSUtm93fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.BuiltinStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.BuiltinStatement.html",
+          "hash": "ARmw8Is0lmfONuX7LyYOEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.CallExpressionArgumentsAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.CallExpressionArgumentsAdapter.html",
+          "hash": "FpzaOVfFqzvQb5F7AQz/Yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.CallExpressionCalleeAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.CallExpressionCalleeAdapter.html",
+          "hash": "VX4ZHJ4ahYFaZPo/Xi8fSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CallExpression.html",
+          "hash": "n5FAihLMY1s/6k+esFtiLw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Cell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Cell.html",
+          "hash": "bVtR4kYxxIQMxuf613cXpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CellLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CellLinks.html",
+          "hash": "A7nOmPif/vVHCBOx9qSoHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CellUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CellUpdate.html",
+          "hash": "Pyb4eWtwEekwL5T5eH9MnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CellWithViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CellWithViewProperties.html",
+          "hash": "YCwT0IupPAX4F7wu8ICMRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Check.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Check.html",
+          "hash": "+0aDvXchs+eVBY/y07UilA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckBase.LastRunStatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckBase.LastRunStatusEnum.html",
+          "hash": "HbCXAe/UMhDPnjrtXNX+uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckBase.html",
+          "hash": "6My860NtO7I3V9nDgfYxdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckBaseLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckBaseLinks.html",
+          "hash": "+X9ztGz8X4TklrGMq5SOXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckDiscriminator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckDiscriminator.html",
+          "hash": "KoDSexCSGbWH5ORns1PDdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckPatch.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckPatch.StatusEnum.html",
+          "hash": "H23pjGAEdvOjAUaHFEnq4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckPatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckPatch.html",
+          "hash": "UZLq8IjLHpqu5FFNqD2MBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckStatusLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckStatusLevel.html",
+          "hash": "DOPtS9lhr3jRczXV0TOUcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.ShapeEnum.html",
+          "hash": "SGkXoCn0tB/wFEtRVGxBVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.TypeEnum.html",
+          "hash": "Y+YrjxIpyrDI09X0TzD4LQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CheckViewProperties.html",
+          "hash": "aIA6jWN8xSSi2NUHByYfew=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Checks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Checks.html",
+          "hash": "HCYrzB/YDS10B3c1yw4sDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionAlternateAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionAlternateAdapter.html",
+          "hash": "TS2yB/2I2SBllt/goW35Kw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionConsequentAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionConsequentAdapter.html",
+          "hash": "qa7j6FeOY02QcFuEosLJiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionTestAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.ConditionalExpressionTestAdapter.html",
+          "hash": "3L61/0/Py7SzmHwkhXgG5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConditionalExpression.html",
+          "hash": "iMSSV9wK9nopU+gUA3ZNTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConstantVariableProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConstantVariableProperties.TypeEnum.html",
+          "hash": "/8YfdwRVbnXM+dtEzhr2ug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ConstantVariableProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ConstantVariableProperties.html",
+          "hash": "ry/wY57ouK5zvH09n+8B8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CreateCell.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CreateCell.html",
+          "hash": "Cnctc4jnqpccHvpllm0F0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CreateDashboardRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CreateDashboardRequest.html",
+          "hash": "lou3Ef2G6lQ9HSyDJFDsfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CustomCheck.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CustomCheck.TypeEnum.html",
+          "hash": "AEXPUNit+n5nf2JJbna0CA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.CustomCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.CustomCheck.html",
+          "hash": "glGC0QK5TU+0jcjKDo5LMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DBRP.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DBRP.html",
+          "hash": "OKrfTMC4JdZuTvIvm9NEYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DBRPCreate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DBRPCreate.html",
+          "hash": "QkA9g6IbmmYPt8t/nCFKPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DBRPGet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DBRPGet.html",
+          "hash": "b4HSR+0kX0oX8dBCcRPPXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DBRPUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DBRPUpdate.html",
+          "hash": "mzF4/cQc6s+kGlhYOfQhHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DBRPs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DBRPs.html",
+          "hash": "gcIYSP6I+FOn49v4yRLNJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Dashboard.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Dashboard.html",
+          "hash": "3oP8HpeGrTfwxj0z7zqPjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardColor.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardColor.TypeEnum.html",
+          "hash": "iKDChrj8MOJYC5iVm/gJRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardColor.html",
+          "hash": "69QNLQW9sEiMOZHRtj6Pcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardLinks.html",
+          "hash": "Sffv5HazFpiCmiCsUnfcuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardMeta.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardMeta.html",
+          "hash": "PKeTd9Hxt29v0uMTnrejCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardQuery.html",
+          "hash": "nyjqkyBJIt5kJiY6oppN3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DashboardWithViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DashboardWithViewProperties.html",
+          "hash": "rgMApZNuqOU9p7lqGtcK/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Dashboards.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Dashboards.html",
+          "hash": "V78AmFF6flywQTDd2MzhmA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DateTimeLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DateTimeLiteral.html",
+          "hash": "1iyEuEYO3GQ7wMk/j4dEnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DeadmanCheck.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DeadmanCheck.TypeEnum.html",
+          "hash": "fG7EFPreT4gC9P3ZHsnAig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DeadmanCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DeadmanCheck.html",
+          "hash": "qyDAA2Bm3GPsGSjBLdz5MA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DecimalPlaces.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DecimalPlaces.html",
+          "hash": "2w2zSlmxs1bh3GMP9cfd+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DeletePredicateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DeletePredicateRequest.html",
+          "hash": "gXagx9kNCTCiw5vyh83fDA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.AnnotationsEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.AnnotationsEnum.html",
+          "hash": "KlvdSc+8YAP82dxf60I4RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.DateTimeFormatEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.DateTimeFormatEnum.html",
+          "hash": "obVTGzAR9D5R21E5Je9lmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Dialect.html",
+          "hash": "gfAFe9C1GhKqNSKyNqpzjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DictExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DictExpression.html",
+          "hash": "qEU4n0w79FVMY+9dcFx5Sg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.DictItemKeyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.DictItemKeyAdapter.html",
+          "hash": "zOLhmJif45KibosF8tDLDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.DictItemValAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.DictItemValAdapter.html",
+          "hash": "WToUtpfMuTQ5wYECGgFwfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DictItem.html",
+          "hash": "cNzAiyQnj7rZ8pPbzLJemQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Document.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Document.html",
+          "hash": "Wytrw5YlsR6GIHVziPQpcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DocumentCreate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DocumentCreate.html",
+          "hash": "cS7kjjr1qUenkckFb64VKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DocumentLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DocumentLinks.html",
+          "hash": "THRxDJIUrqNyneTuDP8glQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DocumentListEntry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DocumentListEntry.html",
+          "hash": "V7o4cLZaMemwhrcAGF2Ckg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DocumentMeta.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DocumentMeta.html",
+          "hash": "mbjo5hTN0nW4eDQfglXGRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DocumentUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DocumentUpdate.html",
+          "hash": "undtos0UlULakYXYaKexUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Documents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Documents.html",
+          "hash": "y+hfrXLsFaGtBR60Nmsj+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Duration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Duration.html",
+          "hash": "o7l0tRawsy+vcTvV8LDpGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.DurationLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.DurationLiteral.html",
+          "hash": "3vTPbNDoWn8GbVSQaL6CdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Error.CodeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Error.CodeEnum.html",
+          "hash": "JDt6uDaF0AL3ojBMagHwbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Error.html",
+          "hash": "8SbSAGR2pm7VOwdyljmaMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Expression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Expression.html",
+          "hash": "YEZr/TFYWC1HKP5Oo/XdhA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ExpressionStatement.ExpressionStatementExpressionAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ExpressionStatement.ExpressionStatementExpressionAdapter.html",
+          "hash": "W6ZVtJDhEaI9gKJTbsOV5g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ExpressionStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ExpressionStatement.html",
+          "hash": "oNvrSXNLzbEesiyX64x46Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Field.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Field.TypeEnum.html",
+          "hash": "e9Q65pxdY3sRq+nSX0pvKg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Field.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Field.html",
+          "hash": "PUtizzrLGQ6DyFWvjjh5GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.File.FileBodyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.File.FileBodyAdapter.html",
+          "hash": "mWul7ec+EkUNKJrpq6XGMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.File.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.File.html",
+          "hash": "eItV6PT6YSj0vrLDpKbF6g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FloatLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FloatLiteral.html",
+          "hash": "ijdHHz6azgWaCjcPU+sfMA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FluxResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FluxResponse.html",
+          "hash": "RIWe+lnawtgYMAoe54gNaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FluxSuggestion.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FluxSuggestion.html",
+          "hash": "GxTQaGQU5XSlMnKbCsTUvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FluxSuggestions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FluxSuggestions.html",
+          "hash": "Vw2J40Im0t4+AvAiwkiGdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FunctionExpression.FunctionExpressionBodyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FunctionExpression.FunctionExpressionBodyAdapter.html",
+          "hash": "zaJlzlh0h6nF98S3KDE0Dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.FunctionExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.FunctionExpression.html",
+          "hash": "v4y6hNwidp1/GE2pdXhwsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.ShapeEnum.html",
+          "hash": "TcJorbA01A9WOY0CuICruQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.TypeEnum.html",
+          "hash": "7z1ylW4AYnwBi2wCvaybZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.GaugeViewProperties.html",
+          "hash": "iHeu0T5kWK4/TLj//QttSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.GreaterThreshold.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.GreaterThreshold.TypeEnum.html",
+          "hash": "B8WdRVBH+0OFL7za/Zs4pA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.GreaterThreshold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.GreaterThreshold.html",
+          "hash": "xymZwkmLH0cp3bN5ha8/rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.AuthMethodEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.AuthMethodEnum.html",
+          "hash": "lyYDulMYSfdrkuMKpxpb6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.MethodEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.MethodEnum.html",
+          "hash": "xazXjvsGVxgCPR5sI86cSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationEndpoint.html",
+          "hash": "FcdVFfsXobuSvBbsjsRUHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRule.html",
+          "hash": "tt8Bnk3TmAmbGivmJxRlKQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRuleBase.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRuleBase.TypeEnum.html",
+          "hash": "8hhfH5meQbrjYPAysJ0G6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HTTPNotificationRuleBase.html",
+          "hash": "+/ajkjKa5V93NsIar+RXuQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HealthCheck.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HealthCheck.StatusEnum.html",
+          "hash": "NC/U6nUtOO/jxNKVSqfZoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HealthCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HealthCheck.html",
+          "hash": "RzbxANiDCGuR4IbxmdhBEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.ShapeEnum.html",
+          "hash": "YzDtYJgXzBjl13gEYjtO2A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.TypeEnum.html",
+          "hash": "jSz6k5o+ZcaIM3z7ygxX1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HeatmapViewProperties.html",
+          "hash": "xIf5Wte4/ss5BLCOYU42ig=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.PositionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.PositionEnum.html",
+          "hash": "njQXYg+tGsKC2hI7jAJNgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.ShapeEnum.html",
+          "hash": "r81KQFg8NhtR/wYWbWgu7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.TypeEnum.html",
+          "hash": "MKNe1qurtE8EKXDiRg7jqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.HistogramViewProperties.html",
+          "hash": "/i+X0Z4G/gITV/oAHfFrGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Identifier.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Identifier.html",
+          "hash": "dJ7REdkvJdwB2HvPiHQRaA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ImportDeclaration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ImportDeclaration.html",
+          "hash": "eLgMaPmL87BmO8gBqwBkyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.IndexExpressionArrayAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.IndexExpressionArrayAdapter.html",
+          "hash": "5olGzGKqTJfRdTIwTVGLXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.IndexExpressionIndexAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.IndexExpressionIndexAdapter.html",
+          "hash": "dvQjQqe5FnHt+RIMnGuc8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.IndexExpression.html",
+          "hash": "LYfKo4FQbQZbgdaQJS/6+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.IntegerLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.IntegerLiteral.html",
+          "hash": "yuo3KR0UUF+r4Pc433397w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.IsOnboarding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.IsOnboarding.html",
+          "hash": "lBvAJThsHrq96AsxTiQalw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Label.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Label.html",
+          "hash": "KsY1f3FmpgYXYsY+kWLrLQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LabelCreateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LabelCreateRequest.html",
+          "hash": "1Rof1PgQgqvGkEz1xx7xyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LabelMapping.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LabelMapping.html",
+          "hash": "1Lbkp6LjBn8L3UgXZA6wqw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LabelResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LabelResponse.html",
+          "hash": "z+IkHOfHA/JEQCYNmXqr3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LabelUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LabelUpdate.html",
+          "hash": "9wFkjVFtI/8k7UyfEVFIJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LabelsResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LabelsResponse.html",
+          "hash": "C2JV7pSg+7OJKyw3H1DGkg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LanguageRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LanguageRequest.html",
+          "hash": "GSIdSzB5EUMz49+tkifebQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LesserThreshold.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LesserThreshold.TypeEnum.html",
+          "hash": "u92AgOpCfUFKun5pRoevoA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LesserThreshold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LesserThreshold.html",
+          "hash": "mucJgV8eH0jHPT3p+4emmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.HoverDimensionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.HoverDimensionEnum.html",
+          "hash": "+z2IKlcgNZ64Bw2/DM3rWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.PositionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.PositionEnum.html",
+          "hash": "T2/u4BLKmpbEKpEYy4Lglg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.ShapeEnum.html",
+          "hash": "xjZfqLYqvkvQOi326H2thA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.TypeEnum.html",
+          "hash": "fr0F0sRWcK2tspf3ixD+Mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LinePlusSingleStatProperties.html",
+          "hash": "1NogWBFZaSDEJ3LMqrCngw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolError.CodeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolError.CodeEnum.html",
+          "hash": "R3py55O3iOmgAEoAkPSQIQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolError.html",
+          "hash": "jKGrjctC6C/BhMlUS+u5XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolLengthError.CodeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolLengthError.CodeEnum.html",
+          "hash": "9y2FfngzKoe/ufTLvq/Wcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolLengthError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LineProtocolLengthError.html",
+          "hash": "i9F4q6MJojNZ8a1y56SeTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Links.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Links.html",
+          "hash": "k6F0ngPOh3Mhl4VmD/EVtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LogEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LogEvent.html",
+          "hash": "FVrG1OYr5JKLikkN8O2KUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.LogicalExpressionLeftAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.LogicalExpressionLeftAdapter.html",
+          "hash": "cSKARvGe8BjCqlS3HLluHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.LogicalExpressionRightAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.LogicalExpressionRightAdapter.html",
+          "hash": "snQqEMe4F/cMcTvD/elbTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.LogicalExpression.html",
+          "hash": "Ffle1+ww9KVr2to8XMi6dQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Logs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Logs.html",
+          "hash": "wwOPziio1M/35RFBnML5JQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MapVariableProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MapVariableProperties.TypeEnum.html",
+          "hash": "ke6JZ1ctSPvqv3OD2H0AQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MapVariableProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MapVariableProperties.html",
+          "hash": "HDFj/rgCsEqqHiY1fyokeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.ShapeEnum.html",
+          "hash": "nQ/hLkwJAN9dzLIbYxcURg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.TypeEnum.html",
+          "hash": "Tp7NGNl+cvh5jmAlyQzHYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MarkdownViewProperties.html",
+          "hash": "1Z/cN8Tesc5BuGsCi90Tng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MemberAssignment.MemberAssignmentInitAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MemberAssignment.MemberAssignmentInitAdapter.html",
+          "hash": "TtiFtgCvQgYRJl52gccnvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MemberAssignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MemberAssignment.html",
+          "hash": "oWxTxZ094uUqONu+Hf5tJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.MemberExpressionObjectAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.MemberExpressionObjectAdapter.html",
+          "hash": "b3Qi+q2IHzuUtvBjnhDzQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.MemberExpressionPropertyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.MemberExpressionPropertyAdapter.html",
+          "hash": "KXyAgjpsEu/HAnCR7UfdFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MemberExpression.html",
+          "hash": "De5pDu+uvjJAVsIg/IFt7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MetadataBackup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MetadataBackup.html",
+          "hash": "v8ej/MAwQMPXmY0hl/bt8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.HoverDimensionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.HoverDimensionEnum.html",
+          "hash": "Pc062IzHV/fLCstuuQEHNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.ShapeEnum.html",
+          "hash": "kNARsaX4G9+6UXomNEIlUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.TypeEnum.html",
+          "hash": "a1BqntF9yTy4Dc8q8SYyZA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.MosaicViewProperties.html",
+          "hash": "s8jVHUFvg7Vc0uaR34P6Zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Node.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Node.html",
+          "hash": "3nYApJAvZP4nDd0Q5wvoPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpoint.html",
+          "hash": "6aQSjXA3uTvVz5Kt5ZVXHw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBase.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBase.StatusEnum.html",
+          "hash": "dzE7BEbAgq/Xr0JyE60qsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBase.html",
+          "hash": "/u/eHa/hf6O64Fn4gM4+tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBaseLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointBaseLinks.html",
+          "hash": "5uoKhdHBaiXFNsuucW0mqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointDiscriminator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointDiscriminator.html",
+          "hash": "UBGgGUmjYFxC5//haWM+MQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointType.html",
+          "hash": "7glJB5r5YIKBYUCF6l4l1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointUpdate.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointUpdate.StatusEnum.html",
+          "hash": "82BOcE+3br77R4pX6VceJw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpointUpdate.html",
+          "hash": "FrLURnoq2z1BhCkYDPaSmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationEndpoints.html",
+          "hash": "+cTtMg1uC43lgyN0OEepZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRule.html",
+          "hash": "fRx08c2vlPeU3vR46WAA6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBase.LastRunStatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBase.LastRunStatusEnum.html",
+          "hash": "/H317bQBfP1EO5bT7aSdNw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBase.html",
+          "hash": "bbh18czCIPusr/h1Chtokg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBaseLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleBaseLinks.html",
+          "hash": "dhwj0szgBB4owZy8dm7dHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleDiscriminator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleDiscriminator.html",
+          "hash": "MVE7z8N8ihKi+vLNvteMYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleUpdate.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleUpdate.StatusEnum.html",
+          "hash": "DKONUmOvm19qlC/HIMGu/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRuleUpdate.html",
+          "hash": "UCebGfV5CG95dB4AMxt0AQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRules.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.NotificationRules.html",
+          "hash": "uRSzjms+OL6wZ5Lr0/chKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ObjectExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ObjectExpression.html",
+          "hash": "9e9jqgOTxWDFCsEsL0up6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.OnboardingRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.OnboardingRequest.html",
+          "hash": "G5x7k/FKMwh586kTUBYznw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.OnboardingResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.OnboardingResponse.html",
+          "hash": "tXK9Pc2NsPYOhjZ1yzvWvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.OptionStatement.OptionStatementAssignmentAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.OptionStatement.OptionStatementAssignmentAdapter.html",
+          "hash": "AFQuskHq9pbR3EuEA65TMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.OptionStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.OptionStatement.html",
+          "hash": "AN1qMOmpjPG7/vYS5XSlGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Organization.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Organization.StatusEnum.html",
+          "hash": "sXajZIWqr+s0FO3cALqBYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Organization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Organization.html",
+          "hash": "ybKbM1WBfomaUZM1Zl9B1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.OrganizationLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.OrganizationLinks.html",
+          "hash": "NNbMZ80huazwECIkoZ2Afg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Organizations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Organizations.html",
+          "hash": "vlU3WXydZu61/J4ScAg7mQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Package.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Package.html",
+          "hash": "EN9xZn/kQheZlL4xm0TZXA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PackageClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PackageClause.html",
+          "hash": "wggiJG1+PEB+M3rSV8FcOQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationEndpoint.html",
+          "hash": "UaujyyKUPg8AaMECQdTRrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRule.html",
+          "hash": "PaeqYXyMOqpBe0hqFTx6jg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRuleBase.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRuleBase.TypeEnum.html",
+          "hash": "uctalsFtA9RHiEyRRSBTvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PagerDutyNotificationRuleBase.html",
+          "hash": "BB7KDeFqhVQzVhO4G7seTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ParenExpression.ParenExpressionExpressionAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ParenExpression.ParenExpressionExpressionAdapter.html",
+          "hash": "OBUtP5Gpf6OnCdkCHw041Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ParenExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ParenExpression.html",
+          "hash": "99nCvL8wzaBZ3Nkh9TVfiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PasswordResetBody.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PasswordResetBody.html",
+          "hash": "js4g4+K9xBMIjmbpE5PGng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PatchBucketRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PatchBucketRequest.html",
+          "hash": "fxK74NK9sC6evcWhZa7Nrw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PatchDashboardRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PatchDashboardRequest.html",
+          "hash": "BH+bAoqft6a6NZY+IOGx1Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PatchOrganizationRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PatchOrganizationRequest.html",
+          "hash": "hV1depFPcWxZvinmCnT/bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PatchRetentionRule.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PatchRetentionRule.TypeEnum.html",
+          "hash": "89qQId2hFss4d0Wz3svuiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PatchRetentionRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PatchRetentionRule.html",
+          "hash": "QVjTNagSGlp/JYyrGoKmxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Permission.ActionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Permission.ActionEnum.html",
+          "hash": "yFT1vPt8V8vr+WPdMTes0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Permission.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Permission.html",
+          "hash": "pCYgX+hSGazZNdXcu0IQmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PermissionResource.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PermissionResource.TypeEnum.html",
+          "hash": "+bFVjYTWc01bahkfLlAD/Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PermissionResource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PermissionResource.html",
+          "hash": "anrvXXxmVn32coINpgXaBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PipeExpression.PipeExpressionArgumentAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PipeExpression.PipeExpressionArgumentAdapter.html",
+          "hash": "W5/yInI2ndqCLCjnwx6BdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PipeExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PipeExpression.html",
+          "hash": "fACVVm9Z57tuLxercdnpTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PipeLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PipeLiteral.html",
+          "hash": "OTAH0fNadU9cM+4i1wWSwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PostBucketRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PostBucketRequest.html",
+          "hash": "ir2bouMZZ+YSLO9NU+GZaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PostOrganizationRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PostOrganizationRequest.html",
+          "hash": "LSIL9rCjJOs7aSi+iVnpjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PostUser.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PostUser.StatusEnum.html",
+          "hash": "uSrHEWgOVBtA0lYDD3tXyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PostUser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PostUser.html",
+          "hash": "/ViYS8KNYfW1F+S1u99oJQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Property.PropertyKeyAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Property.PropertyKeyAdapter.html",
+          "hash": "8i+QyXJVs4mxKmJhsAVJjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Property.PropertyValueAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Property.PropertyValueAdapter.html",
+          "hash": "zsLHbP+JGCGumr0XgLPPPQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Property.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Property.html",
+          "hash": "WyDjp5qbJHM8LFJcXkqzvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.PropertyKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.PropertyKey.html",
+          "hash": "6Mk1dr9XO8P0CRF9DbeNtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Query.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Query.TypeEnum.html",
+          "hash": "1axvjYQs4fbrE8ZKxqLDpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Query.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Query.html",
+          "hash": "3qjJAE0WRDKCgg4u5VyLKw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.QueryEditMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.QueryEditMode.html",
+          "hash": "skRVyvRCF3jKucJxZPVb9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariableProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariableProperties.TypeEnum.html",
+          "hash": "2mOffeQX5/PDMOsMSctp5w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariableProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariableProperties.html",
+          "hash": "JyMlw9jH2pUXuI1/1eyDjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariablePropertiesValues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.QueryVariablePropertiesValues.html",
+          "hash": "pmCbRyjSRnOMUKsjAoqZug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RangeThreshold.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RangeThreshold.TypeEnum.html",
+          "hash": "mmOEJCz01pr8HWvt59HsEA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RangeThreshold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RangeThreshold.html",
+          "hash": "yj9mkMpmCBSe5RMoFDCAzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Ready.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Ready.StatusEnum.html",
+          "hash": "2R2EafzHJpa7xAswipWabw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Ready.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Ready.html",
+          "hash": "EFkcJ+fI6WAU1f5XX6Vxaw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RegexpLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RegexpLiteral.html",
+          "hash": "E1ybxETHkbm26vnP8e3Nmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RenamableField.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RenamableField.html",
+          "hash": "/zIL42bcJ7Dl6cA/HP8d5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMember.RoleEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMember.RoleEnum.html",
+          "hash": "Ge5ZWJ/W+MqWw8jhfY7rAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMember.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMember.html",
+          "hash": "BK3Q6SKF2rrn5E3qUpbjLA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMembers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceMembers.html",
+          "hash": "9WrRYJMV74padeXMnqXAbQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwner.RoleEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwner.RoleEnum.html",
+          "hash": "gxBqoaeAnWlVIzvrpTIIsw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwner.html",
+          "hash": "W7iJFZK/HYOkDg3LK3Ds6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwners.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ResourceOwners.html",
+          "hash": "unMAfaNzgiDREcCJD03WnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RestoredBucketMappings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RestoredBucketMappings.html",
+          "hash": "toWjF1SjdPuJvhBL+XD3GQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RetentionPolicyManifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RetentionPolicyManifest.html",
+          "hash": "ZEEYdwFiKYigGGGP/W8isg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ReturnStatement.ReturnStatementArgumentAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ReturnStatement.ReturnStatementArgumentAdapter.html",
+          "hash": "E9LtWNZTKVH/fygjUySRkQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ReturnStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ReturnStatement.html",
+          "hash": "QJGrEK9GXZutElEC3/DBvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Routes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Routes.html",
+          "hash": "DkDd7EzP64MKRKnHIkoi/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RoutesExternal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RoutesExternal.html",
+          "hash": "YKSH4iVpXNntFeVYZHphQA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RoutesQuery.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RoutesQuery.html",
+          "hash": "iLB+eKGKP1/zweVCBrUbrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RoutesSystem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RoutesSystem.html",
+          "hash": "qr+jZuD6hiFV4pApr3cGcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RuleStatusLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RuleStatusLevel.html",
+          "hash": "7UDP0Pnj/vuF8AWzIw9azw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Run.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Run.StatusEnum.html",
+          "hash": "0cc9hfrpNUCQhOTa3NQMVw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Run.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Run.html",
+          "hash": "EspzGqFaKkg0z3KpUKg+Nw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RunLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RunLinks.html",
+          "hash": "6vIm3m0qjj2ezqTfIsg8Qg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.RunManually.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.RunManually.html",
+          "hash": "EDnLMFdVVwSHjof0eyprNA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Runs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Runs.html",
+          "hash": "7SpWQoqfPVGReUS+YNzUTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRule.html",
+          "hash": "OGFMYA6G+QfqfcEhRZn2/A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRuleBase.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRuleBase.TypeEnum.html",
+          "hash": "Ui/YiIrApswTYx7hz8OzNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SMTPNotificationRuleBase.html",
+          "hash": "QA8e+filCWwIri1Fm/JYvQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.ShapeEnum.html",
+          "hash": "zhxc+ZPZE7bxOaEjG9LjDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.TypeEnum.html",
+          "hash": "CA6GwUu+aEqZlxWxUeucRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScatterViewProperties.html",
+          "hash": "pHjGpTica7hiVuOHCNVAqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SchemaType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SchemaType.html",
+          "hash": "TFHRA/7KVTOCDlL59qi1iQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetRequest.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetRequest.TypeEnum.html",
+          "hash": "6QJGUA1QUnDreIUU0LjoCA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetRequest.html",
+          "hash": "ld1kW8mBZb4mMrCtgF7s+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponse.html",
+          "hash": "bQ+GWVX0hI/It4JH04ZjNQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponseLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponseLinks.html",
+          "hash": "5dy0jwaPkvoiE6TVWtmEnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponses.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ScraperTargetResponses.html",
+          "hash": "jNlxL3EDjMx2qjKO69SIHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeys.html",
+          "hash": "FVLEC89ZcYanqNZqCYxjzQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeysResponse.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeysResponse.html",
+          "hash": "zNyKaci3gydBuCmwfnxsHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeysResponseLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SecretKeysResponseLinks.html",
+          "hash": "cnxXPnZkc4pypdzztMIFtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ShardGroupManifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ShardGroupManifest.html",
+          "hash": "PzU/7tXWpyyxmkZQQbp+Lw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ShardManifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ShardManifest.html",
+          "hash": "kXDGC1scsPqvOZOrpwOpXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ShardOwner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ShardOwner.html",
+          "hash": "xWuLBhCHxAyqvPIucR5d7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.ShapeEnum.html",
+          "hash": "xW0Lsdi4GDFz42WWVZ07Rw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.TypeEnum.html",
+          "hash": "IteyZZGyGiv/UteXAtz6Cw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SingleStatViewProperties.html",
+          "hash": "yqkin+LEYeDslfWxlwiRyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationEndpoint.html",
+          "hash": "Gwtcoq1ERmO9ByWEg3umGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRule.html",
+          "hash": "P/lCu5KENTddGGwEGWU/eA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRuleBase.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRuleBase.TypeEnum.html",
+          "hash": "biuVF22t695whIgT7V9igA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SlackNotificationRuleBase.html",
+          "hash": "cNzK8XNhuotq3JuGiEtOng=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Source.LanguagesEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Source.LanguagesEnum.html",
+          "hash": "5vy6gWzSIs/nXSmw8+iBwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Source.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Source.TypeEnum.html",
+          "hash": "i8e1jb+q6aYU0mxMdk9BqA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Source.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Source.html",
+          "hash": "/g13O/p1XlEo6P8w/WUx4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SourceLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SourceLinks.html",
+          "hash": "9mYudmgkEH3gKyWJUI7A5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Sources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Sources.html",
+          "hash": "QkQe7yIGMey2Gs5Jnw77RA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Statement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Statement.html",
+          "hash": "4M/F7/mBqm3CoQyiiR646Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.StaticLegend.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.StaticLegend.html",
+          "hash": "mr90NQyGUBoH89nFk1VbCQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.StatusRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.StatusRule.html",
+          "hash": "/R8ognAZCsefX+2f2X28HA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.StringLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.StringLiteral.html",
+          "hash": "FjwzpA4zq8wuKyVFCdVqfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.SubscriptionManifest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.SubscriptionManifest.html",
+          "hash": "bG+RCV+viPIcCM8K0K4now=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.ShapeEnum.html",
+          "hash": "o9FpBGLD9yIFM/bjaPfq0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.TypeEnum.html",
+          "hash": "20ot3iGiI49u4XnwwdL2GA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TableViewProperties.html",
+          "hash": "h3LGRCjWa9al+ZOPhrofNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TableViewPropertiesTableOptions.WrappingEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TableViewPropertiesTableOptions.WrappingEnum.html",
+          "hash": "H+eAZGjpSQSEZ+v0xRCncg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TableViewPropertiesTableOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TableViewPropertiesTableOptions.html",
+          "hash": "mf1OTjGpyjpvoCGWOswMDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TagRule.OperatorEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TagRule.OperatorEnum.html",
+          "hash": "zenREIetSEOyQTxnAVYnEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TagRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TagRule.html",
+          "hash": "4ej5bLNinHPY2zvOlzHcNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskCreateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskCreateRequest.html",
+          "hash": "fnMY/b2bpZFWMc0bEAYJiA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskLinks.html",
+          "hash": "pV1VQnCLH9dCkQUvmeq79w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskStatusType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskStatusType.html",
+          "hash": "ZjXZQYFD9H7/L79M214Q+w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskType.LastRunStatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskType.LastRunStatusEnum.html",
+          "hash": "tcPvSVcV9bdU0mtiL15KqQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskType.html",
+          "hash": "hPBeFfFruTWUgPumKne+jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TaskUpdateRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TaskUpdateRequest.html",
+          "hash": "eQFrtT3GV5KEq+DeiDWQOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Tasks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Tasks.html",
+          "hash": "12fjTrSAed+E8dNjOWDFRQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Telegraf.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Telegraf.html",
+          "hash": "LA48vfJ75J7tDNITUYEmtg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafLinks.html",
+          "hash": "PYrGNrFdc4ndWg015z/r6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugin.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugin.TypeEnum.html",
+          "hash": "Q/DtPkZ6yVazwtWBEvwavw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugin.html",
+          "hash": "DE49/RyE21uiXf8EKGc6XA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugins.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafPlugins.html",
+          "hash": "zl4dVrdimMQ/0JS2AKoArA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafRequest.html",
+          "hash": "Dpwg3Dqc/9QyEn9gBqVMBA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafRequestMetadata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegrafRequestMetadata.html",
+          "hash": "2yhueO5VgorQjyKIUU4lBw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Telegrafs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Telegrafs.html",
+          "hash": "mcdRNzbf5iXO+ylvh+SCaQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationEndpoint.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationEndpoint.html",
+          "hash": "tgjr/U0lE+J6QO9s3VzYuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRule.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRule.html",
+          "hash": "2czMJvBKIpdqoecnJpip4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.ParseModeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.ParseModeEnum.html",
+          "hash": "u3SdUzgI6cRCdBgh+zVHDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.TypeEnum.html",
+          "hash": "jRdpO7j/euFs42OWGre9SA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TelegramNotificationRuleBase.html",
+          "hash": "ENt81xd3A/gpwL+VeO6Gtw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.TestStatement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.TestStatement.html",
+          "hash": "XoKZJvPVZ6CwKxaX3zlVrQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Threshold.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Threshold.html",
+          "hash": "8umZWdif8eqar3ZACJgMdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdBase.html",
+          "hash": "4MfP0qDkrIlf6KZ9ZH/0Aw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheck.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheck.TypeEnum.html",
+          "hash": "EXBWNgCCl8vng+wyFeCeeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheck.html",
+          "hash": "ZfBMoVbvww8XdahWCTyzzw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheckTags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ThresholdCheckTags.html",
+          "hash": "/SEuGdbp00ONTLXQLqUkvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.UnaryExpression.UnaryExpressionArgumentAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.UnaryExpression.UnaryExpressionArgumentAdapter.html",
+          "hash": "7n6IOQpqXiHuTPmxfdc42A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.UnaryExpression.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.UnaryExpression.html",
+          "hash": "+W1l+zJoPYYNmaQX4IzHQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.UnsignedIntegerLiteral.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.UnsignedIntegerLiteral.html",
+          "hash": "rK9FR8+S3foRVejspPYd4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.User.StatusEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.User.StatusEnum.html",
+          "hash": "UCctZ3VEtcSmJ4UCch/sSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.User.html",
+          "hash": "MyA+8CvJ3eYH52u2LUAvrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.UserLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.UserLinks.html",
+          "hash": "d2s+9DFNk/NkxxYUsigLeQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Users.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Users.html",
+          "hash": "3vW7rp4d/yuybhISxIzNVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.UsersLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.UsersLinks.html",
+          "hash": "YBqURpXMwmWvla6ti3CZMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Variable.VariableArgumentsAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Variable.VariableArgumentsAdapter.html",
+          "hash": "3nLwU+LbIYh2T/Qko9/HKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Variable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Variable.html",
+          "hash": "Kt1SaxvQFlhEdNdJy33aQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.VariableAssignment.VariableAssignmentInitAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.VariableAssignment.VariableAssignmentInitAdapter.html",
+          "hash": "DWERtJbtBetcsZEyH0+v1g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.VariableAssignment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.VariableAssignment.html",
+          "hash": "YhJx2G/HH0OL6G03S+1RQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.VariableLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.VariableLinks.html",
+          "hash": "P+soOP4bDt4sEpDN7OjGYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.VariableProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.VariableProperties.html",
+          "hash": "pZA3t7eFj2GYGoEVGgwfRA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Variables.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Variables.html",
+          "hash": "+bC2VBFO8SPklnnyrfD4fg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.View.ViewPropertiesAdapter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.View.ViewPropertiesAdapter.html",
+          "hash": "GOELwsGi7A7lzUYQJTshZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.View.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.View.html",
+          "hash": "CA6wNtlf2QbU2Z2nvP1RzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ViewLinks.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ViewLinks.html",
+          "hash": "Wkz4QohcuZXv6con6BmRdQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.ViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.ViewProperties.html",
+          "hash": "iVhnziDs79+vZJYHsldf1w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.Views.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.Views.html",
+          "hash": "OHMVaz8Jlhy4PN/ZeYW5PQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.WritePrecision.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.WritePrecision.html",
+          "hash": "pzCinXuYpreqlrNefgf29Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYGeom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYGeom.html",
+          "hash": "4te5ng3YXGbXdnChu8Rdcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.HoverDimensionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.HoverDimensionEnum.html",
+          "hash": "J8yr37aT78PKWrN8b+fd3w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.PositionEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.PositionEnum.html",
+          "hash": "K9axouUFvqqOmsTpNh4AuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.ShapeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.ShapeEnum.html",
+          "hash": "FIfECvOBmr/3Qna7ZaY8UQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.TypeEnum.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.TypeEnum.html",
+          "hash": "sKU+nRE0LyCsDU5Cw7SnDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.XYViewProperties.html",
+          "hash": "OeYt+44NYVKXmNGdQYjGYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Domain.html",
+          "hash": "jQjNed67RZ7KGmPk3jpTTw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.AuthorizationsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.AuthorizationsService.html",
+          "hash": "hhUYoYIN8CsAOPM6aInuKA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.BackupService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.BackupService.html",
+          "hash": "K07o1MADN3I7SuimCwgVlg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.BucketsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.BucketsService.html",
+          "hash": "XMf02/cdDX4aAeRgndTViA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.CellsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.CellsService.html",
+          "hash": "UoT/TLl1yV2FkKwC1w/XUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ChecksService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ChecksService.html",
+          "hash": "j2Sk/mW1r4gqMFDUvM8s5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.DBRPsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.DBRPsService.html",
+          "hash": "b5AMVfQyF5nUhThh3m88Tw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.DashboardsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.DashboardsService.html",
+          "hash": "svjZQZNn3MrtRBShiZGL6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.DefaultService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.DefaultService.html",
+          "hash": "SjfkYaRkpgCheCyaLFTOTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.DeleteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.DeleteService.html",
+          "hash": "DKSQ5Kpir2dxTZ+LZjBfbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.HealthService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.HealthService.html",
+          "hash": "1V6UF1joWKUuTYWeCyKZEw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IAuthorizationsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IAuthorizationsService.html",
+          "hash": "thMqPihdhZf+htZMzl+l4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IBackupService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IBackupService.html",
+          "hash": "l65RQs3sGsf6EFZuQ7Bv1A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IBucketsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IBucketsService.html",
+          "hash": "i8v7dPN7QpSmlKIAJ0WmdA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ICellsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ICellsService.html",
+          "hash": "VeuelH2EEHG50qzUgNAqIA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IChecksService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IChecksService.html",
+          "hash": "y0PYUj6EG/WbLgmQrvXa4g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IDBRPsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IDBRPsService.html",
+          "hash": "FU1YF/bxyooXDZQkaRUxsA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IDashboardsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IDashboardsService.html",
+          "hash": "7Ya0bap2zYpHqErTUjPLug=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IDefaultService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IDefaultService.html",
+          "hash": "f+9nNkYT6h98YRHV+sS6Mg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IDeleteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IDeleteService.html",
+          "hash": "ybRSV4ca6oJjX8N2Con3oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IHealthService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IHealthService.html",
+          "hash": "wHA7RskNnkGzqqGo7JrCpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ILabelsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ILabelsService.html",
+          "hash": "A07Xtg6t09pO+A+pncwdGg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.INotificationEndpointsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.INotificationEndpointsService.html",
+          "hash": "fwcJHOQNLYTVmLFq2KyHow=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.INotificationRulesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.INotificationRulesService.html",
+          "hash": "v3sdoGk4veANrTACVii7bA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IOrganizationsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IOrganizationsService.html",
+          "hash": "U0QWtWo3LbQpq06N3enGgw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IQueryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IQueryService.html",
+          "hash": "s9pJOoAhUEU4+Nh9NBej9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IReadyService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IReadyService.html",
+          "hash": "oFSo2JLckgoSIy6wwFWH9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IRestoreService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IRestoreService.html",
+          "hash": "e/HLA+lyUoJ7blHyw0dXrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IRoutesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IRoutesService.html",
+          "hash": "0bCUc3gPZT4FmPSKidaNjA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IRulesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IRulesService.html",
+          "hash": "rwVWcGJ87FSNshSndObm7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IScraperTargetsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IScraperTargetsService.html",
+          "hash": "QaEP/HSKfH3p+6B10BOWcA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ISecretsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ISecretsService.html",
+          "hash": "z+fxySYRyLBzibwMxAMucw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ISetupService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ISetupService.html",
+          "hash": "fsqHmg/XqFQHZ1l6SAP+5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ISourcesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ISourcesService.html",
+          "hash": "lz/vBPw8usVbO3dAkc5HHA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ITasksService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ITasksService.html",
+          "hash": "z3Uk2ZNWaMnr3A5DV3d6yg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ITelegrafPluginsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ITelegrafPluginsService.html",
+          "hash": "+qEWEGcMNArdGw8zmSAdjQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ITelegrafsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ITelegrafsService.html",
+          "hash": "PF8e0DUK/0RHhFHn4e45Sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ITemplatesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ITemplatesService.html",
+          "hash": "GVoUqKVnQyrpQlCnsxLPVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IUsersService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IUsersService.html",
+          "hash": "LjzIhK9+7dWmlbZMl5UUxQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IVariablesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IVariablesService.html",
+          "hash": "FmuFxvHZgp8PhN8NYZYHUg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IViewsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IViewsService.html",
+          "hash": "dxzr5pfSQW/a0fBUBZuxzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.IWriteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.IWriteService.html",
+          "hash": "KQZNd+SBw+KjAKMNOARIqg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.LabelsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.LabelsService.html",
+          "hash": "1ere151QBdo/ZF6Uiue0Sw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.NotificationEndpointsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.NotificationEndpointsService.html",
+          "hash": "ocralbrrjZWQgi0u3wl+LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.NotificationRulesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.NotificationRulesService.html",
+          "hash": "Tl0PSuMJqln/VYEwqiMSTA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.OrganizationsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.OrganizationsService.html",
+          "hash": "qwt6iMzPnjkeYXCFePJhfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.QueryService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.QueryService.html",
+          "hash": "R9rBFwQbVEuJy6FegAyBOA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ReadyService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ReadyService.html",
+          "hash": "HSmxKGGmNpSgT0uManiszA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.RestoreService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.RestoreService.html",
+          "hash": "CCnWg+MVCaz4gAHuFvkSgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.RoutesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.RoutesService.html",
+          "hash": "y87h0WunaGJqyoPymX+g0A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.RulesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.RulesService.html",
+          "hash": "SGo46gi4dg2hNOF1fR6Pdg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ScraperTargetsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ScraperTargetsService.html",
+          "hash": "ktLZLCybbq3HhiR6g5d0bw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.SecretsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.SecretsService.html",
+          "hash": "4faH/z0mZ4DsQIh9ufka9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.SetupService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.SetupService.html",
+          "hash": "DU1EMUc0HyQslZqcIjU8QQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.SourcesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.SourcesService.html",
+          "hash": "47sTyzy6dVgb8CpnQDiyvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.TasksService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.TasksService.html",
+          "hash": "OQjI7BqrRJ5OgI+NdbxWTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.TelegrafPluginsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.TelegrafPluginsService.html",
+          "hash": "jCXVk043tNHGWmMAg/wEpA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.TelegrafsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.TelegrafsService.html",
+          "hash": "wZk495eJ9dOx1rBg7sBCvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.TemplatesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.TemplatesService.html",
+          "hash": "DBPYEhXjHSSBPCEAGWFVmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.UsersService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.UsersService.html",
+          "hash": "rTsff/smLFijsfhN9nBL0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.VariablesService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.VariablesService.html",
+          "hash": "ez+e1mmIu6/CVPCwVVLcjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.ViewsService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.ViewsService.html",
+          "hash": "gfSc71m1yygRxRk34ROvbg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.WriteService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.WriteService.html",
+          "hash": "JtGjHEMojmYXhTuGzVGJSw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Api.Service.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Api.Service.html",
+          "hash": "ujVwWWHW5gNtWxIIbM7XEQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.AuthorizationsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.AuthorizationsApi.html",
+          "hash": "ZM5HMOwXjolxeGKJ9qCvfw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.BucketsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.BucketsApi.html",
+          "hash": "tHyHiTMNec9ZbZz2HYKjAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.ChecksApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.ChecksApi.html",
+          "hash": "Nwj9Q2EfAqseRxhZULci4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Arguments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Arguments.html",
+          "hash": "K5l97Tmm3brol1qALFyC3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Column.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Column.html",
+          "hash": "daIPbsAiFVjvNPmxzrmrcg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Exceptions.HttpException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Exceptions.HttpException.html",
+          "hash": "ZsvT0XJMNmyYIU4KcgdRrg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Exceptions.InfluxException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Exceptions.InfluxException.html",
+          "hash": "hSgjoFGxRPHWe4WB/um+NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Exceptions.html",
+          "hash": "Bi2gx3eGCrf6W/WsS752xA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxColumn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxColumn.html",
+          "hash": "shYE+L6HGESYu+vo530oXw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxRecord.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxRecord.html",
+          "hash": "7Oji8UNfYB/gFNGwSDHD5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxTable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Domain.FluxTable.html",
+          "hash": "ffjbTfipsNwwBW4sHuefPg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Domain.html",
+          "hash": "qOccaDnJjGpmbtiUt/hwwA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.FluxCsvParserException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.FluxCsvParserException.html",
+          "hash": "eOAibSAxDZj+w/WAYiWWUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.FluxQueryException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.FluxQueryException.html",
+          "hash": "WDNj3tKh2aob6fgPNA4UyQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Flux.Exceptions.html",
+          "hash": "UXPqro2Fjur/tmVc/7AojQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.ICancellable.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.ICancellable.html",
+          "hash": "eJreMCnS2bZf/YpxO3ws3g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.LogLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.LogLevel.html",
+          "hash": "y1YglAtQqKtXiKz/eocy4Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.Measurement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.Measurement.html",
+          "hash": "bTHsopSsm1shIqWvyAJaXQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Core.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Core.html",
+          "hash": "x+aDlDQQy+DDK4qCDu/Xhw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.DeleteApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.DeleteApi.html",
+          "hash": "YxTppgmxatCCWp2Xz4l0WQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Domain.FindOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Domain.FindOptions.html",
+          "hash": "xpAh+zuXVW+jRTKz0mmJYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Domain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Domain.html",
+          "hash": "C7JEGrvUnAGEi1RtBIH80A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Flux.FluxClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Flux.FluxClient.html",
+          "hash": "wpB75qSvdpLY7DhYaND92Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Flux.FluxClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Flux.FluxClientFactory.html",
+          "hash": "JfCcbhd6pipI5/cbnT1AZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Flux.FluxConnectionOptions.AuthenticationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Flux.FluxConnectionOptions.AuthenticationType.html",
+          "hash": "14gWKtUuDQWpJGZH1FKFFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Flux.FluxConnectionOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Flux.FluxConnectionOptions.html",
+          "hash": "aF/6xlT9FsjpaOb/K+gofQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Flux.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Flux.html",
+          "hash": "712X+uM1ALcD5kWfMIQClA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.IDomainObjectMapper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.IDomainObjectMapper.html",
+          "hash": "maoTAtKGSm6refFEOdeJ8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.InfluxDBClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.InfluxDBClient.html",
+          "hash": "evP7DY3iz5Rxg2S6lJR+7g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.InfluxDBClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.InfluxDBClientFactory.html",
+          "hash": "baJFHwvxP4mz3v49POrbiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.AuthenticationScheme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.AuthenticationScheme.html",
+          "hash": "RZCVQ/CZu3MgZyXwwA2X6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.Builder.html",
+          "hash": "yXc2bgXestfuYsrjz4sHog=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.InfluxDBClientOptions.html",
+          "hash": "p4i6SEbZCW270EH03849oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.LabelsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.LabelsApi.html",
+          "hash": "YwfjjgQY/+7MU5j+SFYzYw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.DefaultMemberNameResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.DefaultMemberNameResolver.html",
+          "hash": "Vwg5RDEwrnjPYsHR55CI0w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.IMemberNameResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.IMemberNameResolver.html",
+          "hash": "GsSdhMcCKcoQkS3X61elAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.InfluxDBQueryable-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.InfluxDBQueryable-1.html",
+          "hash": "aZY/sNgaLIc9ICLTvPXV8Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.MemberType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.MemberType.html",
+          "hash": "kE48IHP1tks17SqwsxXg6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.QueryableExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.QueryableExtensions.html",
+          "hash": "iYxsG69RpBVAOYfD+o01LA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.QueryableOptimizerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.QueryableOptimizerSettings.html",
+          "hash": "8wl+8jiyXn5nm1C4PCKLVg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Linq.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Linq.html",
+          "hash": "buEU0UpT1hoQGA5NoItDYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.NotificationEndpointsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.NotificationEndpointsApi.html",
+          "hash": "3JbE3maWhMFlnWiTfdDFUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.NotificationRulesApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.NotificationRulesApi.html",
+          "hash": "C5y9MiSx4pQFPcU65TUFiw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.OrganizationsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.OrganizationsApi.html",
+          "hash": "uBzoTAhDIQ3Z/XkeMSaOEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.QueryApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.QueryApi.html",
+          "hash": "UV6rJvD8pS67IjIIhq9F/w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.QueryApiSync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.QueryApiSync.html",
+          "hash": "QLRt+W7xh6MQZt0x5O3XnA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.ScraperTargetsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.ScraperTargetsApi.html",
+          "hash": "PP9ZTd8hFq4iomEs3mi5wA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.SourcesApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.SourcesApi.html",
+          "hash": "kx7RnDooGUTMlobS1mt7uA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.TasksApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.TasksApi.html",
+          "hash": "8HG49tbWIk708rPDzrl2+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.TelegrafsApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.TelegrafsApi.html",
+          "hash": "FWFSSF1Fn8PxsVIWMhvhmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.UsersApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.UsersApi.html",
+          "hash": "r0wQcXMD2iOnLnpBBQZVhg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.WriteApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.WriteApi.html",
+          "hash": "LYXIo6+wbIYi2A6tQfX5pg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.WriteApiAsync.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.WriteApiAsync.html",
+          "hash": "AZ2K+w7QecCOApSAVAQ1dg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.WriteOptions.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.WriteOptions.Builder.html",
+          "hash": "wkYzkvD1QM5PZlq+nH4rUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.WriteOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.WriteOptions.html",
+          "hash": "EdfkNLBmEV7wQW/8aj/R8A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.AbstractWriteEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.AbstractWriteEvent.html",
+          "hash": "KB2HUUYHRQ8sxU1K61lryw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.InfluxDBEventArgs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.InfluxDBEventArgs.html",
+          "hash": "DNlKZstVZhn4lKmzy0OZSQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.PointData.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.PointData.Builder.html",
+          "hash": "eXuVEhX7/BFW7vZcPmYDPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.PointData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.PointData.html",
+          "hash": "lmuxSfxeNL3JO6aPJch41g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.PointSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.PointSettings.html",
+          "hash": "m1i1yt4DVU4p2BFF6qFRvA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.WriteErrorEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.WriteErrorEvent.html",
+          "hash": "7GDSpoq3KA0IRD5a6rfJZg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.WriteRetriableErrorEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.WriteRetriableErrorEvent.html",
+          "hash": "/U/ah/+034MuTeO6WDPJ9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.WriteRuntimeExceptionEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.WriteRuntimeExceptionEvent.html",
+          "hash": "jcx5QxZUNYbBmKB5ZDjSZQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.WriteSuccessEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.WriteSuccessEvent.html",
+          "hash": "7HaQibRsIN1jtsgeoR7J+g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.Writes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.Writes.html",
+          "hash": "RhvjYZw0ZNk1FpmmZZfHgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InfluxDB.Client.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InfluxDB.Client.html",
+          "hash": "Tn37y7xHZ1v1h+M5ecxjWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "favicon.ico",
+      "output": {
+        "resource": {
+          "relative_path": "favicon.ico"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/influxdata-logo--symbol--white.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/influxdata-logo--symbol--white.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "uvhP7gY/OliE9zI5xawA+Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build"
+      },
+      "processors": {
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build"
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build"
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing"
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
